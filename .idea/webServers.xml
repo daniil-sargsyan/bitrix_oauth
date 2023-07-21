@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="41d32a6c-ffdc-4506-a307-a09145ab9596" name="ercrm" url="http://ercrm.am">
+        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="155.133.23.242" port="22" sshConfigId="fdb17249-0e3a-4e3f-b61b-c89be7e7085e" sshConfig="root@155.133.23.242:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
